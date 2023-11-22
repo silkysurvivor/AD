@@ -1,4 +1,4 @@
-$Csvfile = "C:\temp\ImportADUsers.csv"
+$Csvfile = "C:\Scripts\TestUser2.csv"
 $Users = Import-Csv $Csvfile
 
 # Import the Active Directory module
