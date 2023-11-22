@@ -1,0 +1,5 @@
+﻿First name,Last name,Display name,User logon name,User principal name,Street,City,State/province,Zip/Postal Code,Country/region,Job Title,Department,Company,Manager,OU,Description,Office,Telephone number,Other Telephone,E-mail,Mobile,Notes,Account status
+Ali,Tajran,Ali Tajran,Ali.Tajran,Ali.Tajran@Demo.com,,,,,,,,,,"OU=IT,OU=Users,OU=Company,DC=Demo,DC=local",Student of Life,,,,Ali.Tajran@Demo.com,,,Enabled
+Ruth,Dickens,Ruth Dickens,Ruth.Dickens,Ruth.Dickens@Demo.com,21 Baker St,London,,NW1 6XE,GB,Engineer,IT,Demo,,"OU=IT,OU=Users,OU=Company,DC=Demo,DC=local",,,,,Ruth.Dickens@Demo.com,,Notes,Enabled
+Sebastian,Nolan,Sebastian Nolan,Sebastian.Nolan,Sebastian.Nolan@Demo.com,24 Baker St,London,,NW1 6XE,GB,Engineer,IT,Demo,,"OU=IT,OU=Users,OU=Company,DC=Demo,DC=local",,,,,Sebastian.Nolan@Demo.com,,,Enabled
+Zoë,Roberts,Zoë Roberts,Zoe.Roberts,Zoe.Roberts@Demo.com,21 Baker St,London,State,NW1 6XE,GB,Engineer,IT,Demo,Ali Tajran,"OU=IT,OU=Users,OU=Company,DC=Demo,DC=local",Description,Office,1111,,Zoe.Roberts@Demo.com,3333,Notes1234,Disabled
